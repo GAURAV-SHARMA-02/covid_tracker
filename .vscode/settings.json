@@ -1,0 +1,12 @@
+{
+    "emmet.includeLanguages": {
+       "javascript": "javascriptreact"
+   },
+  "files.autoSave": "afterDelay",
+"files.autoSaveDelay": 100,
+"emmet.excludeLanguages": [
+
+    "markdown"
+],
+"git.ignoreLimitWarning": true
+ }
